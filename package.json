@@ -1,0 +1,25 @@
+{
+  "name": "bacon-admin",
+  "version": "0.0.1-dev",
+  "description": "AdminUI for Bacon",
+  "keywords": [
+    "react",
+    "admin",
+    "ui"
+  ],
+  "homepage": "https://github.com/thundax-lyp/bacon-admin#readme",
+  "bugs": {
+    "url": "https://github.com/thundax-lyp/bacon-admin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thundax-lyp/bacon-admin.git"
+  },
+  "license": "Apache-2.0",
+  "author": "thundax <thundax@qq.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
